@@ -19,7 +19,7 @@ Training codes in gnn_train.py, and the run script in run.py.
 STRING(we use Homo sapiens subset): 
 - PPI: https://stringdb-static.org/download/protein.actions.v11.0/9606.protein.actions.v11.0.txt.gz 
 - Protein sequence: https://stringdb-static.org/download/protein.sequences.v11.0/9606.protein.sequences.v11.0.fa.gz 
-
+Dataset：
 SHS27k and SHS148k: 
 - http://yellowstone.cs.ucla.edu/~muhao/pipr/SHS_ppi_beta.zip
 
